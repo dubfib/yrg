@@ -1,0 +1,13 @@
+[package]
+name = "cert"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.39"
+colored = "2.2.0"
+hex = "0.4.3"
+pe-sign = "0.1.10"
+
+[profile.release]
+opt-level = 3
