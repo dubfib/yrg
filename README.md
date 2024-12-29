@@ -1,5 +1,8 @@
 # yrg
 
+# NOTICE
+> this project was supposed to be written in bun, but i'm going to do rust instead. all the code in this branch is pretty much useless. check out the cert branch for some wip stuff that works.
+
 To install dependencies:
 
 ```bash
